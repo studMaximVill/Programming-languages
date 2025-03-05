@@ -1,0 +1,5 @@
+Tesla Model_3 2022 45000 true
+Toyota Corolla 2021 22000 false
+Ford Mustang 2020 35000 false
+Nissan Leaf 2023 38000 true
+BMW X5 2019 50000 false
