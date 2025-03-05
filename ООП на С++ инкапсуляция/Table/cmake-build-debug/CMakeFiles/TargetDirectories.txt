@@ -1,0 +1,3 @@
+C:/Users/flik8/Desktop/ДЗ/Языки программирования/Семестр 2/ООП на С++ инкапсуляция/Задания/Table/cmake-build-debug/CMakeFiles/Table.dir
+C:/Users/flik8/Desktop/ДЗ/Языки программирования/Семестр 2/ООП на С++ инкапсуляция/Задания/Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/flik8/Desktop/ДЗ/Языки программирования/Семестр 2/ООП на С++ инкапсуляция/Задания/Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
