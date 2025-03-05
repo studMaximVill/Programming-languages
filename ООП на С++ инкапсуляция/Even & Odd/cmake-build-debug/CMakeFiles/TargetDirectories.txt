@@ -1,0 +1,3 @@
+C:/Users/flik8/Documents/Программирование/Cpp/Even & Odd/cmake-build-debug/CMakeFiles/Even___Odd.dir
+C:/Users/flik8/Documents/Программирование/Cpp/Even & Odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/flik8/Documents/Программирование/Cpp/Even & Odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
