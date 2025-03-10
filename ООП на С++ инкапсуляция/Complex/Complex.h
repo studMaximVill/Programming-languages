@@ -10,17 +10,13 @@ class Complex {
 
 public:
     Complex();
+    ~Complex();
     Complex(double x, double y);
-
     double get_re() const;
     void set_re(double re) const;
-
     double get_im() const;
     void set_im(double im) const;
-
     void print() const;
-
-    // Новые методы
     double Abs() const;
     double Arg() const;
     void TrigPrint() const;
