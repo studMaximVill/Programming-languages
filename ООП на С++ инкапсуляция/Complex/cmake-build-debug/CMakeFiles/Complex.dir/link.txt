@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Complex.dir/objects.a
+C:\Users\flik8\Documents\Programs\mingw64\bin\ar.exe qc CMakeFiles\Complex.dir/objects.a @CMakeFiles\Complex.dir\objects1.rsp
+C:\Users\flik8\Documents\Programs\mingw64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\Complex.dir/objects.a -Wl,--no-whole-archive -o Complex.exe -Wl,--out-implib,libComplex.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Complex.dir\linkLibs.rsp
